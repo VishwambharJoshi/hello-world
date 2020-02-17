@@ -1,6 +1,6 @@
 # hello-world
 
-Hi intelligence
+Hi intelligence!
 
 A very first repository
 
